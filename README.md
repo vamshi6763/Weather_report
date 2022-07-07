@@ -1,2 +1,2 @@
 # Weather_report
-weather report from openweathermap.org
+Present weather report of the given location
